@@ -14,4 +14,5 @@
 
 Открываете консоль и играет спокойно!
 
+Игру писал Широбоков Егор 24ИС11-1
 ![Логотип](https://static.wikia.nocookie.net/vsbattles/images/a/a9/6839830661669609299.jpg/revision/latest?cb=20240312073353)
