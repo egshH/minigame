@@ -1,0 +1,14 @@
+C:\Users\yegor\Desktop\game\Minigame\bin\Debug\net8.0\Minigame.exe
+C:\Users\yegor\Desktop\game\Minigame\bin\Debug\net8.0\Minigame.deps.json
+C:\Users\yegor\Desktop\game\Minigame\bin\Debug\net8.0\Minigame.runtimeconfig.json
+C:\Users\yegor\Desktop\game\Minigame\bin\Debug\net8.0\Minigame.dll
+C:\Users\yegor\Desktop\game\Minigame\bin\Debug\net8.0\Minigame.pdb
+C:\Users\yegor\Desktop\game\Minigame\obj\Debug\net8.0\Minigame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yegor\Desktop\game\Minigame\obj\Debug\net8.0\Minigame.AssemblyInfoInputs.cache
+C:\Users\yegor\Desktop\game\Minigame\obj\Debug\net8.0\Minigame.AssemblyInfo.cs
+C:\Users\yegor\Desktop\game\Minigame\obj\Debug\net8.0\Minigame.csproj.CoreCompileInputs.cache
+C:\Users\yegor\Desktop\game\Minigame\obj\Debug\net8.0\Minigame.dll
+C:\Users\yegor\Desktop\game\Minigame\obj\Debug\net8.0\refint\Minigame.dll
+C:\Users\yegor\Desktop\game\Minigame\obj\Debug\net8.0\Minigame.pdb
+C:\Users\yegor\Desktop\game\Minigame\obj\Debug\net8.0\Minigame.genruntimeconfig.cache
+C:\Users\yegor\Desktop\game\Minigame\obj\Debug\net8.0\ref\Minigame.dll
